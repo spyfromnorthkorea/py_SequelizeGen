@@ -9,5 +9,8 @@ MYSQL_USER = 'user'
 MYSQL_PASSWORD = 'pass'
 MYSQL_DB = 'db'
 ```
-
+then:
+```
+python app.py
+```
 Thanks to ChatGPT!
