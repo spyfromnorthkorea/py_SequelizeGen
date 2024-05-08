@@ -1,4 +1,4 @@
-# py_SequelizeGen
+# SequelizeGen
 This script generates Sequelize Models based on MySQL database.
 
 Basically you just need to change those parameters and run it, then inside `models` folder you should see your Sequelize models generated as it is in your schema.
@@ -11,6 +11,6 @@ MYSQL_DB = 'db'
 ```
 then:
 ```
-python app.py
+python SequelizeGen.py
 ```
 Thanks to ChatGPT!
