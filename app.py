@@ -2,10 +2,10 @@ import os
 import pymysql.cursors
 
 # MySQL connection parameters
-MYSQL_HOST = 'localhost'
-MYSQL_USER = 'one'
-MYSQL_PASSWORD = ''
-MYSQL_DB = 'xex'
+MYSQL_HOST = 'host'
+MYSQL_USER = 'user'
+MYSQL_PASSWORD = 'pass'
+MYSQL_DB = 'db'
 
 
 # Function to generate Sequelize model code
