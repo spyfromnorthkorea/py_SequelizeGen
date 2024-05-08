@@ -5,9 +5,9 @@ Basically you just need to change those parameters and run it, then inside `mode
 
 ```
 MYSQL_HOST = 'localhost'
-MYSQL_USER = 'one'
-MYSQL_PASSWORD = ''
-MYSQL_DB = 'xex'
+MYSQL_USER = 'user'
+MYSQL_PASSWORD = 'pass'
+MYSQL_DB = 'db'
 ```
 
 Thanks to ChatGPT!
